@@ -136,8 +136,12 @@ h1,h2,h3,h4,h5,h6{
 
 
 @media (max-width:1040px){
+    .container-fluid{
+        padding: 7% 5%;
+    }
     #title .container-fluid{
         text-align: center;
+        padding: 7% 5%;
     }
     .iphone-img{
         position: static;
